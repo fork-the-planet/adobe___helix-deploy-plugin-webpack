@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.1...v1.0.2) (2025-06-19)
+
+
+### Bug Fixes
+
+* export `WebpackBundler` separately ([#10](https://github.com/adobe/helix-deploy-plugin-webpack/issues/10)) ([4d07fe2](https://github.com/adobe/helix-deploy-plugin-webpack/commit/4d07fe235cfd627be76eb50e95864fce1736614d))
+
 ## [1.0.1](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.0...v1.0.1) (2025-06-09)
 
 
