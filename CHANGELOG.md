@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.7...v1.0.8) (2025-09-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency chalk-template to v1.1.2 ([#27](https://github.com/adobe/helix-deploy-plugin-webpack/issues/27)) ([427ddd7](https://github.com/adobe/helix-deploy-plugin-webpack/commit/427ddd70dff5dc8e79c65abdca231723504e205b))
+
 ## [1.0.7](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.6...v1.0.7) (2025-08-18)
 
 
