@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.8...v1.0.9) (2025-09-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-extra to v11.3.2 ([#30](https://github.com/adobe/helix-deploy-plugin-webpack/issues/30)) ([47a0556](https://github.com/adobe/helix-deploy-plugin-webpack/commit/47a0556379b2caee3a0e0d89df94cb49669ff076))
+
 ## [1.0.8](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.7...v1.0.8) (2025-09-08)
 
 
