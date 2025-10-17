@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.11...v1.0.12) (2025-10-17)
+
+
+### Bug Fixes
+
+* enable NPM provenance publishing to bypass 2FA requirement ([#36](https://github.com/adobe/helix-deploy-plugin-webpack/issues/36)) ([b1840f6](https://github.com/adobe/helix-deploy-plugin-webpack/commit/b1840f6942d423bc14a66919411fd97244964d34))
+
 ## [1.0.11](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.10...v1.0.11) (2025-10-16)
 
 
