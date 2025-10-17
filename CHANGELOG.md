@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.12...v1.0.13) (2025-10-17)
+
+
+### Bug Fixes
+
+* upgrade to @semantic-release/npm@13.0.0 for OIDC support ([#37](https://github.com/adobe/helix-deploy-plugin-webpack/issues/37)) ([15abd08](https://github.com/adobe/helix-deploy-plugin-webpack/commit/15abd082b99f80d01b891ec0a621e2691d9f9f5e))
+
 ## [1.0.12](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.11...v1.0.12) (2025-10-17)
 
 
