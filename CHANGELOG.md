@@ -1,3 +1,10 @@
+## [1.0.24](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.23...v1.0.24) (2026-06-09)
+
+
+### Bug Fixes
+
+* **deps:** update external fixes ([#78](https://github.com/adobe/helix-deploy-plugin-webpack/issues/78)) ([09ebd27](https://github.com/adobe/helix-deploy-plugin-webpack/commit/09ebd27088043a5b05669239711f2d98f35a1a25))
+
 ## [1.0.23](https://github.com/adobe/helix-deploy-plugin-webpack/compare/v1.0.22...v1.0.23) (2026-05-25)
 
 
